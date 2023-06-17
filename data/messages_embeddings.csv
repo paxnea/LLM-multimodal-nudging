@@ -1,0 +1,25 @@
+,content,Content_ID,Embedding,Deviation
+0,"Put down your phone and pick up a book! Get lost in a new world, learn something new, or be inspired by a biography. Reading is the perfect escape from screens.",0,"[-0.01877205  0.00369923  0.02205747 ... -0.01959967 -0.00510369
+ -0.03002022]","[-0.01564679 -0.00097716  0.00171176 ... -0.01739265 -0.0050369
+  0.00027916]"
+1,Put down your phone and grab some colored pencils! Coloring books are a fun and creative way to unwind and unleash your inner artist. Let's get coloring!,1,"[ 0.00395979  0.01116654  0.02451866 ...  0.00350446 -0.00069241
+ -0.02304905]","[ 0.00708505  0.00649015  0.00417295 ...  0.00571148 -0.00062562
+  0.00725034]"
+2,Put down your phone and pick up your needles! Knitting is a relaxing and meditative activity that also allows you to create something beautiful. Let's get knitting!,2,"[-0.01807442  0.01139696  0.02107194 ...  0.00925405  0.01371207
+ -0.03579168]","[-0.01494916  0.00672057  0.00072623 ...  0.01146107  0.01377886
+ -0.0054923 ]"
+3,Put down your phone and preheat the oven! Baking is a fun and creative way to satisfy your sweet tooth and impress your friends and family. Let's get baking!,3,"[ 0.00034    -0.00212964  0.01675783 ...  0.01545021 -0.00334522
+ -0.0309766 ]","[ 0.00346525 -0.00680603 -0.00358787 ...  0.01765723 -0.00327843
+ -0.00067721]"
+4,Put down your phone and shuffle the deck! Solitaire is a classic card game that's perfect for passing the time and challenging your mind. Let's get playing!,4,"[-0.01509333 -0.00101848  0.01534915 ... -0.01662824 -0.00193623
+ -0.033103  ]","[-0.01196807 -0.00569487 -0.00499656 ... -0.01442123 -0.00186944
+ -0.00280362]"
+5,Put down your phone and grab a pen! Crosswords are a fun and stimulating way to exercise your brain and improve your vocabulary. Let's get solving!,5,"[-0.00569864  0.00911018  0.03368855 ...  0.00305159 -0.00271872
+ -0.02953482]","[-0.00257338  0.00443379  0.01334284 ...  0.00525861 -0.00265193
+  0.00076457]"
+6,Put down your phone and hop on your bike! Cycling is a fun and versatile way to explore the outdoors and stay active. Let's get pedaling!,6,"[ 0.01447955  0.00125207  0.01475535 ... -0.00275331 -0.00751558
+ -0.0303381 ]","[ 1.76048064e-02 -3.42431616e-03 -5.59035537e-03 ... -5.46290103e-04
+ -7.44878667e-03 -3.87174077e-05]"
+7,"Put down your phone and lace up your shoes! Walking is a great way to get some fresh air, clear your mind, and get some exercise. Let's get moving!",7,"[ 0.01385704  0.00393425  0.0145667  ... -0.00993523  0.00706547
+ -0.0295816 ]","[ 0.0169823  -0.00074214 -0.00577901 ... -0.00772822  0.00713226
+  0.00071778]"
