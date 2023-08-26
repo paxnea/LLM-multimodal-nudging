@@ -1,21 +1,21 @@
 Gender,Age,Race,Likes,Dislikes
-Male,Young,White,Reading;Guitar;Biking,Knitting;Coloring Books;Solitaire
-Female,Adult,Asian,Gardening;Baking;Meditating,Weightlifting;Walking;Biking
-Male,Senior,Black,Reading;Gardening;Knitting,Watercolor Painting;Jigsaw Puzzles;Crosswords
-Female,Young,Hispanic,Baking;Guitar;Meditating,Knitting;Coloring Books;Solitaire
-Male,Adult,White,Reading;Gardening;Baking,Weightlifting;Walking;Biking
-Female,Senior,Asian,Guitar;Meditating;Knitting,Watercolor Painting;Jigsaw Puzzles;Crosswords
-Male,Young,Black,Reading;Baking;Guitar,Knitting;Coloring Books;Solitaire
-Female,Adult,Hispanic,Gardening;Meditating;Knitting,Weightlifting;Walking;Biking
-Male,Senior,White,Reading;Gardening;Baking,Watercolor Painting;Jigsaw Puzzles;Crosswords
-Female,Young,Asian,Guitar;Meditating;Knitting,Knitting;Coloring Books;Solitaire
-Male,Adult,Black,Reading;Gardening;Baking,Weightlifting;Walking;Biking
-Female,Senior,Hispanic,Guitar;Meditating;Knitting,Watercolor Painting;Jigsaw Puzzles;Crosswords
-Male,Young,White,Reading;Baking;Guitar,Knitting;Coloring Books;Solitaire
-Female,Adult,Asian,Gardening;Meditating;Knitting,Weightlifting;Walking;Biking
-Male,Senior,Black,Reading;Gardening;Baking,Watercolor Painting;Jigsaw Puzzles;Crosswords
-Female,Young,Hispanic,Guitar;Meditating;Knitting,Knitting;Coloring Books;Solitaire
-Male,Adult,White,Reading;Gardening;Baking,Weightlifting;Walking;Biking
-Female,Senior,Asian,Guitar;Meditating;Knitting,Watercolor Painting;Jigsaw Puzzles;Crosswords
-Male,Young,Black,Reading;Baking;Guitar,Knitting;Coloring Books;Solitaire
-Female,Adult,Hispanic,Gardening;Meditating;Knitting,Weightlifting;Walking;Biking
+Male,Young,Asian,physical;cerebral;outdoors;crafts,sedentary;indoors;games
+Female,Adult,Caucasian,creative;indoors;sports;music,physical;outdoors;sedentary
+Male,Senior,African American,physical;games;music;crafts,indoors;cerebral;domestic
+Female,Young,Hispanic,outdoors;sports;games;active,indoors;cerebral;crafts
+Male,Adult,Caucasian,physical;outdoors;active;sedentary,indoors;cerebral;crafts
+Female,Senior,Asian,creative;indoors;music;games,physical;cerebral;outdoors;sedentary
+Male,Young,African American,physical;outdoors;sports;music,indoors;cerebral;crafts
+Female,Adult,Hispanic,cerebral;indoors;games;crafts,physical;outdoors;sedentary
+Male,Senior,Caucasian,physical;outdoors;sports;active,indoors;cerebral;crafts
+Female,Young,Asian,creative;indoors;music;games,physical;cerebral;outdoors;sedentary
+Male,Adult,African American,physical;outdoors;games;crafts,indoors;cerebral;sedentary
+Female,Senior,Hispanic,cerebral;indoors;music;crafts,physical;outdoors;sedentary
+Male,Young,Caucasian,physical;outdoors;sports;active,indoors;cerebral;crafts
+Female,Adult,Asian,creative;indoors;music;games,physical;cerebral;outdoors;sedentary
+Male,Senior,African American,physical;outdoors;sports;crafts,indoors;cerebral;sedentary
+Female,Young,Hispanic,outdoors;sports;games;active,indoors;cerebral;crafts
+Male,Adult,Caucasian,physical;outdoors;active;sedentary,indoors;cerebral;crafts
+Female,Senior,Asian,creative;indoors;music;games,physical;cerebral;outdoors;sedentary
+Male,Young,African American,physical;outdoors;sports;music,indoors;cerebral;crafts;domestic
+Female,Adult,Hispanic,cerebral;indoors;games;crafts,physical;outdoors;sedentary
