@@ -1,0 +1,21 @@
+gender,age,race,likes,dislikes
+Male,45,White,physical;creative;music;active,sports;games;cerebral;domestic
+Female,33,Hispanic,domestic;indoors;music;sports,physical;outdoors;games;cerebral
+Male,27,Asian,sports;music;active;creative,physical;cerebral;domestic;indoors
+Female,52,African American,creative;domestic;indoors;music,physical;sports;cerebral;active
+Male,55,White,cerebral;indoors;creative;music,sports;physical;domestic;active
+Female,29,Asian,active;creative;music;domestic,sports;indoors;cerebral;physical
+Male,65,Hispanic,indoors;sports;active;cerebral,physical;music;creative;domestic
+Female,38,African American,music;indoors;active;cerebral,sports;physical;creative;domestic
+Male,70,Asian,physical;music;sports;indoors,creative;cerebral;domestic;active
+Female,21,White,domestic;creative;cerebral;music,sports;indoors;physical;active
+Male,39,Hispanic,sports;indoors;creative;cerebral,physical;music;domestic;active
+Female,34,African American,indoors;music;cerebral;active,sports;physical;creative;domestic
+Male,58,White,creative;domestic;music;sports,indoors;cerebral;physical;active
+Female,46,Asian,active;cerebral;indoors;sports,physical;music;creative;domestic
+Male,49,Hispanic,music;indoors;cerebral;active,sports;physical;creative;domestic
+Female,25,African American,physical;creative;domestic;music,sports;indoors;cerebral;active
+Male,31,White,sports;music;active;cerebral,physical;indoors;creative;domestic
+Female,60,Asian,indoors;domestic;creative;music,sports;cerebral;physical;active
+Male,35,Hispanic,active;indoors;sports;cerebral,physical;music;creative;domestic
+Female,40,African American,cerebral;domestic;music;sports,indoors;physical;creative;active
