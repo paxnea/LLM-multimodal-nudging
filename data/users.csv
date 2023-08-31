@@ -1,21 +1,21 @@
-Gender,Age,Race,Likes,Dislikes
-Male,Young,White,Reading;Guitar;Biking,Knitting;Coloring Books;Solitaire
-Female,Adult,Asian,Gardening;Baking;Meditating,Weightlifting;Walking;Biking
-Male,Senior,Black,Reading;Gardening;Knitting,Watercolor Painting;Jigsaw Puzzles;Crosswords
-Female,Young,Hispanic,Baking;Guitar;Meditating,Knitting;Coloring Books;Solitaire
-Male,Adult,White,Reading;Gardening;Baking,Weightlifting;Walking;Biking
-Female,Senior,Asian,Guitar;Meditating;Knitting,Watercolor Painting;Jigsaw Puzzles;Crosswords
-Male,Young,Black,Reading;Baking;Guitar,Knitting;Coloring Books;Solitaire
-Female,Adult,Hispanic,Gardening;Meditating;Knitting,Weightlifting;Walking;Biking
-Male,Senior,White,Reading;Gardening;Baking,Watercolor Painting;Jigsaw Puzzles;Crosswords
-Female,Young,Asian,Guitar;Meditating;Knitting,Knitting;Coloring Books;Solitaire
-Male,Adult,Black,Reading;Gardening;Baking,Weightlifting;Walking;Biking
-Female,Senior,Hispanic,Guitar;Meditating;Knitting,Watercolor Painting;Jigsaw Puzzles;Crosswords
-Male,Young,White,Reading;Baking;Guitar,Knitting;Coloring Books;Solitaire
-Female,Adult,Asian,Gardening;Meditating;Knitting,Weightlifting;Walking;Biking
-Male,Senior,Black,Reading;Gardening;Baking,Watercolor Painting;Jigsaw Puzzles;Crosswords
-Female,Young,Hispanic,Guitar;Meditating;Knitting,Knitting;Coloring Books;Solitaire
-Male,Adult,White,Reading;Gardening;Baking,Weightlifting;Walking;Biking
-Female,Senior,Asian,Guitar;Meditating;Knitting,Watercolor Painting;Jigsaw Puzzles;Crosswords
-Male,Young,Black,Reading;Baking;Guitar,Knitting;Coloring Books;Solitaire
-Female,Adult,Hispanic,Gardening;Meditating;Knitting,Weightlifting;Walking;Biking
+,Gender,Age,Race,Likes,Dislikes
+0,Male,45,White,physical;creative;music;active,sports;games;cerebral;domestic
+1,Female,33,Hispanic,domestic;indoors;music;sports,physical;outdoors;games;cerebral
+2,Male,27,Asian,sports;music;active;creative,physical;cerebral;domestic;indoors
+3,Female,52,African American,creative;domestic;indoors;music,physical;sports;cerebral;active
+4,Male,55,White,cerebral;indoors;creative;music,sports;physical;domestic;active
+5,Female,29,Asian,active;creative;music;domestic,sports;indoors;cerebral;physical
+6,Male,65,Hispanic,indoors;sports;active;cerebral,physical;music;creative;domestic
+7,Female,38,African American,music;indoors;active;cerebral,sports;physical;creative;domestic
+8,Male,70,Asian,physical;music;sports;indoors,creative;cerebral;domestic;active
+9,Female,21,White,domestic;creative;cerebral;music,sports;indoors;physical;active
+10,Male,39,Hispanic,sports;indoors;creative;cerebral,physical;music;domestic;active
+11,Female,34,African American,indoors;music;cerebral;active,sports;physical;creative;domestic
+12,Male,58,White,creative;domestic;music;sports,indoors;cerebral;physical;active
+13,Female,46,Asian,active;cerebral;indoors;sports,physical;music;creative;domestic
+14,Male,49,Hispanic,music;indoors;cerebral;active,sports;physical;creative;domestic
+15,Female,25,African American,physical;creative;domestic;music,sports;indoors;cerebral;active
+16,Male,31,White,sports;music;active;cerebral,physical;indoors;creative;domestic
+17,Female,60,Asian,indoors;domestic;creative;music,sports;cerebral;physical;active
+18,Male,35,Hispanic,active;indoors;sports;cerebral,physical;music;creative;domestic
+19,Female,40,African American,cerebral;domestic;music;sports,indoors;physical;creative;active
