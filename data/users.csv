@@ -1,21 +1,21 @@
 Gender,Age,Race,Likes,Dislikes
-Male,50,White,physical;sports;outdoors;active,games;sedentary;creative;domestic
-Female,28,Black,creative;games;indoors;sedentary,sports;active;outdoors;physical
-Female,41,Asian,cerebral;domestic;crafts;active,physical;sports;sedentary;outdoors
-Male,35,Hispanic,outdoors;active;sports;physical,cerebral;crafts;sedentary;indoor
-Female,32,White,indoors;sedentary;games;cerebral,sports;physical;active;domestic
-Male,68,Hispanic,sports;active;physical;outdoors,creative;crafts;sedentary;indoors
-Female,28,Asian,domestic;housekeeping;cerebral;crafts,sports;physical;outdoors;active
-Male,65,Black,games;indoors;sedentary;creative,physical;sports;active;domestic
-Female,49,Native American,outdoors;active;sports;physical,games;indoors;creative;cerebral
-Male,30,White,creative;cerebral;indoors;domestic,sports;outdoors;active;physical
-Female,45,Hispanic,sedentary;indoors;creative;cerebral,sports;outdoors;physical;active
-Male,55,Asian,active;sports;outdoors;physical,sedentary;indoors;creative;cerebral
-Female,39,Black,crafts;creative;indoors;cerebral,sports;outdoors;active;physical
-Male,50,Native American,domestic;indoors;sports;active,outdoors;creative;cerebral;sedentary
-Female,70,Hispanic,cerebral;creative;crafts;domestic,sports;physical;active;outdoor
-Male,24,White,physical;active;sports;outdoors,games;indoors;creative;crafts
-Female,33,Asian,games;sedentary;indoors;cerebral,sports;outdoors;active;physical
-Male,48,Black,active;sports;outdoors;physical,domestic;housekeeping;sedentary;indoors
-Female,54,Native American,domestic;housekeeping;crafts;cerebral,sports;outdoors;active;physical
-Male,21,Hispanic,games;sports;active;outdoors,domestic;housekeeping;sedentary;indoors
+Male,35,White,sports;outdoors;active;physical,cerebral;domestic;sedentary;housekeeping
+Female,56,Black,domestic;creative;crafts;indoors,sports;active;outdoors;physical
+Male,42,Asian,games;sedentary;cerebral;indoors,active;sports;outdoors;creative
+Female,21,Hispanic,active;sports;physical;outdoors,domestic;sedentary;housekeeping;crafts
+Male,68,White,domestic;housekeeping;sedentary;indoors,active;outdoors;sports;physical
+Female,48,Black,creative;cerebral;crafts;sedentary,sports;outdoors;physical;domestic
+Male,32,Hispanic,active;sports;physical;games,creative;cerebral;housekeeping;indoors
+Female,66,Asian,housekeeping;indoors;domestic;sedentary,active;sports;outdoors;creative
+Male,28,Black,outdoors;active;sports;physical,crafts;domestic;indoors;sedentary
+Female,64,White,cerebral;indoors;crafts;creative,outdoors;active;sports;physical
+Male,51,Hispanic,indoors;games;cerebral;sedentary,sports;active;outdoors;domestic
+Female,38,Asian,outdoors;active;physical;creative,sedentary;domestic;housekeeping;games
+Male,44,Black,domestic;indoors;crafts;housekeeping,sports;outdoors;active;creative
+Female,30,White,sports;outdoors;active;games,housekeeping;domestic;cerebral;indoors
+Male,59,Asian,creative;cerebral;crafts;indoors,sports;active;outdoors;housekeeping
+Female,26,Hispanic,active;sports;outdoors;cerebral,domestic;indoors;sedentary;creative
+Male,55,White,housekeeping;indoors;sedentary;creative,active;sports;outdoors;games
+Female,46,Black,cerebral;outdoors;creative;active,domestic;indoors;sedentary;games
+Male,34,Hispanic,games;indoors;cerebral;creative,sports;outdoors;active;housekeeping
+Female,70,Asian,domestic;housekeeping;sports;indoors,active;outdoors;creative;cerebral
