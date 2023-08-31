@@ -1,0 +1,633 @@
+
+
+
+Person_0
+adult white man
+Likes: physical creative music active
+Disikes: sports games cerebral domestic
+
+0. Image_19/Message_39
+Image:
+        male, adult, white, taking a photo with a camera
+Message:
+      Capture the world through your lens and unlock a world of creativity,
+beauty, and self-expression. Embrace the magic of photography
+and watch your screen time fade away!
+
+1. Image_12/Message_39
+Image:
+        male, young, adult, and they are making art with paper
+Message:
+      Give your eyes a break and let your imagination soar! Grab a
+pen and paper, and discover the joy of drawing while boosting
+your creativity and reducing screen time.
+
+2. Image_7/Message_39
+Image:
+        young, white, male, listening to music, headphones, outdoors
+Message:
+      Why stare at screens when you can immerse yourself in the incredible
+world of music? Let the captivating melodies transport you, boost
+your mood, and ignite your imagination!
+
+
+
+Person_1
+young adult hispanic woman
+Likes: domestic indoors music sports
+Disikes: physical outdoors games cerebral
+
+0. Image_36/Message_39
+Image:
+        female, adult, black, singing into a microphone, performing
+Message:
+      Give your eyes a break and let your voice shine! Singing boosts
+mood, relieves stress, and brings joy to your day. So put down
+the screen and start serenading!
+
+1. Image_41/Message_39
+Image:
+        woman, adult, white, cleaning the mirror, cleaning the house
+Message:
+      Give your screen a break and let's clean instead! Cleaning not
+only tidies up your space, but also clears your mind and brings
+a fresh start to your day. Let's get cleaning and enjoy the benefits
+of a clean and organized space!
+
+2. Image_47/Message_39
+Image:
+        female, young, adult, white, listening to music outdoors
+Message:
+      Why stare at screens when you can immerse yourself in the incredible
+world of music? Let the captivating melodies transport you, boost
+your mood, and ignite your imagination!
+
+
+
+Person_2
+young adult asian man
+Likes: sports music active creative
+Disikes: physical cerebral domestic indoors
+
+0. Image_12/Message_39
+Image:
+        male, young, adult, and they are making art with paper
+Message:
+      Give your eyes a break and let your imagination soar! Grab a
+pen and paper, and discover the joy of drawing while boosting
+your creativity and reducing screen time.
+
+1. Image_0/Message_39
+Image:
+        male, young, indian, playing guitar, smiling, sitting
+Message:
+      Why stare at screens when you can immerse yourself in the incredible
+world of music? Let the captivating melodies transport you, boost
+your mood, and ignite your imagination!
+
+2. Image_10/Message_39
+Image:
+        male, young, adult, and indonesian, and they are hiking
+Message:
+      Ditch the screen, hit the trail! Discover nature's wonders, boost
+your mood, and energize your body with an invigorating hike.
+
+
+
+Person_3
+adult african american woman
+Likes: creative domestic indoors music
+Disikes: physical sports cerebral active
+
+0. Image_46/Message_39
+Image:
+        female, young, black, working on a project in a workshop
+Message:
+      Put down the screen and pick up a needle - sewing is waiting
+to unleash your creativity and bring a sense of fulfillment and
+joy to your day!
+
+1. Image_36/Message_39
+Image:
+        female, adult, black, singing into a microphone, performing
+Message:
+      Give your eyes a break and let your voice shine! Singing boosts
+mood, relieves stress, and brings joy to your day. So put down
+the screen and start serenading!
+
+2. Image_41/Message_39
+Image:
+        woman, adult, white, cleaning the mirror, cleaning the house
+Message:
+      Give your screen a break and let's clean instead! Cleaning not
+only tidies up your space, but also clears your mind and brings
+a fresh start to your day. Let's get cleaning and enjoy the benefits
+of a clean and organized space!
+
+
+
+Person_4
+adult white man
+Likes: cerebral indoors creative music
+Disikes: sports physical domestic active
+
+0. Image_7/Message_39
+Image:
+        young, white, male, listening to music, headphones, outdoors
+Message:
+      Why stare at screens when you can immerse yourself in the incredible
+world of music? Let the captivating melodies transport you, boost
+your mood, and ignite your imagination!
+
+1. Image_47/Message_39
+Image:
+        female, young, adult, white, listening to music outdoors
+Message:
+      Why stare at screens when you can immerse yourself in the incredible
+world of music? Let the captivating melodies transport you, boost
+your mood, and ignite your imagination!
+
+2. Image_34/Message_39
+Image:
+        senior, white, male, writing, drawing, painting, sketching
+Message:
+      Give your eyes a break and let your imagination soar! Grab a
+pen and paper, and discover the joy of drawing while boosting
+your creativity and reducing screen time.
+
+
+
+Person_5
+young adult asian woman
+Likes: active creative music domestic
+Disikes: sports indoors cerebral physical
+
+0. Image_9/Message_39
+Image:
+        female, young, asian, taking a photo with a camera
+Message:
+      Capture the world through your lens and unlock a world of creativity,
+beauty, and self-expression. Embrace the magic of photography
+and watch your screen time fade away!
+
+1. Image_45/Message_39
+Image:
+        female, adult, asian, working on a sculpture
+Message:
+      Step away from your screen and let your hands mold something
+extraordinary. Sculpting is a creative adventure that unleashes
+your imagination and brings joy to your soul. Start sculpting
+now and experience the incredible benefits of self-expression
+and relaxation.
+
+2. Image_21/Message_39
+Image:
+        woman, adult, asian, putting flowers in a vase
+Message:
+      Why not give your screen a rest and transform your space into
+a cozy oasis? Discover the joy of home decorating and create
+a sanctuary that brings you calm and happiness.
+
+
+
+Person_6
+senior-aged hispanic man
+Likes: indoors sports active cerebral
+Disikes: physical music creative domestic
+
+0. Image_44/Message_39
+Image:
+        senior, male, white, playing with a rubik's cube
+Message:
+      Feeling screen overload? Time to conquer the colorful challenge
+of a Rubik's cube! Unleash your problem-solving skills, improve
+focus, and enjoy a satisfying victory! Let's cube it!
+
+1. Image_3/Message_39
+Image:
+        senior, white, male, holding a book, walking
+Message:
+      Step away from the screen and let's stroll! Walking boosts energy,
+clears the mind, and fills your day with fresh inspiration. Let's
+get moving!
+
+2. Image_39/Message_39
+Image:
+        male, adult, senior, and they are doing yoga in the park
+Message:
+      Give your eyes a break and let your body flow with the ancient
+practice of yoga. Feel the tension melt away and experience the
+incredible benefits of increased flexibility, strength, and inner
+peace.
+
+
+
+Person_7
+adult african american woman
+Likes: music indoors active cerebral
+Disikes: sports physical creative domestic
+
+0. Image_36/Message_39
+Image:
+        female, adult, black, singing into a microphone, performing
+Message:
+      Give your eyes a break and let your voice shine! Singing boosts
+mood, relieves stress, and brings joy to your day. So put down
+the screen and start serenading!
+
+1. Image_47/Message_39
+Image:
+        female, young, adult, white, listening to music outdoors
+Message:
+      Why stare at screens when you can immerse yourself in the incredible
+world of music? Let the captivating melodies transport you, boost
+your mood, and ignite your imagination!
+
+2. Image_15/Message_39
+Image:
+        woman, adult, afro-american, meditating, yoga
+Message:
+      Give your eyes a break and let your body flow with the ancient
+practice of yoga. Feel the tension melt away and experience the
+incredible benefits of increased flexibility, strength, and inner
+peace.
+
+
+
+Person_8
+senior-aged asian man
+Likes: physical music sports indoors
+Disikes: creative cerebral domestic active
+
+0. Image_7/Message_39
+Image:
+        young, white, male, listening to music, headphones, outdoors
+Message:
+      Why stare at screens when you can immerse yourself in the incredible
+world of music? Let the captivating melodies transport you, boost
+your mood, and ignite your imagination!
+
+1. Image_39/Message_39
+Image:
+        male, adult, senior, and they are doing yoga in the park
+Message:
+      Give your eyes a break and let your body flow with the ancient
+practice of yoga. Feel the tension melt away and experience the
+incredible benefits of increased flexibility, strength, and inner
+peace.
+
+2. Image_0/Message_39
+Image:
+        male, young, indian, playing guitar, smiling, sitting
+Message:
+      Why stare at screens when you can immerse yourself in the incredible
+world of music? Let the captivating melodies transport you, boost
+your mood, and ignite your imagination!
+
+
+
+Person_9
+young white woman
+Likes: domestic creative cerebral music
+Disikes: sports indoors physical active
+
+0. Image_42/Message_39
+Image:
+        female, young, white, writing in a notebook,
+Message:
+      Why not let your imagination soar and bring your stories to life
+through the power of creative writing? It's a perfect way to
+unwind, express yourself, and unlock a world of endless possibilities!
+
+1. Image_14/Message_39
+Image:
+        female, young, adult, white, sewing, working on a sewing machine
+Message:
+      Put down the screen and pick up a needle - sewing is waiting
+to unleash your creativity and bring a sense of fulfillment and
+joy to your day!
+
+2. Image_2/Message_39
+Image:
+        woman, adult, white, preparing food, preparing food, cooking,
+cooking, cooking,
+Message:
+      Why not whip up a delicious meal and discover the joy of creating
+something amazing in the kitchen? Cooking can be a tasty way
+to unwind, explore new flavors, and nourish your body and soul.
+
+
+
+Person_10
+adult hispanic man
+Likes: sports indoors creative cerebral
+Disikes: physical music domestic active
+
+0. Image_44/Message_39
+Image:
+        senior, male, white, playing with a rubik's cube
+Message:
+      Feeling screen overload? Time to conquer the colorful challenge
+of a Rubik's cube! Unleash your problem-solving skills, improve
+focus, and enjoy a satisfying victory! Let's cube it!
+
+1. Image_12/Message_39
+Image:
+        male, young, adult, and they are making art with paper
+Message:
+      Give your eyes a break and let your imagination soar! Grab a
+pen and paper, and discover the joy of drawing while boosting
+your creativity and reducing screen time.
+
+2. Image_11/Message_39
+Image:
+        male, adult, white, reading a newspaper, crossword puzzle
+Message:
+      Why not challenge your brain and have some fun with crosswords?
+They boost your mental agility and memory while giving you a
+break from screens!
+
+
+
+Person_11
+young adult african american woman
+Likes: indoors music cerebral active
+Disikes: sports physical creative domestic
+
+0. Image_47/Message_39
+Image:
+        female, young, adult, white, listening to music outdoors
+Message:
+      Why stare at screens when you can immerse yourself in the incredible
+world of music? Let the captivating melodies transport you, boost
+your mood, and ignite your imagination!
+
+1. Image_36/Message_39
+Image:
+        female, adult, black, singing into a microphone, performing
+Message:
+      Give your eyes a break and let your voice shine! Singing boosts
+mood, relieves stress, and brings joy to your day. So put down
+the screen and start serenading!
+
+2. Image_15/Message_39
+Image:
+        woman, adult, afro-american, meditating, yoga
+Message:
+      Give your eyes a break and let your body flow with the ancient
+practice of yoga. Feel the tension melt away and experience the
+incredible benefits of increased flexibility, strength, and inner
+peace.
+
+
+
+Person_12
+adult white man
+Likes: creative domestic music sports
+Disikes: indoors cerebral physical active
+
+0. Image_13/Message_39
+Image:
+        man, adult, white, cooking, frying, preparing food
+Message:
+      Why not whip up a delicious meal and discover the joy of creating
+something amazing in the kitchen? Cooking can be a tasty way
+to unwind, explore new flavors, and nourish your body and soul.
+
+1. Image_12/Message_39
+Image:
+        male, young, adult, and they are making art with paper
+Message:
+      Give your eyes a break and let your imagination soar! Grab a
+pen and paper, and discover the joy of drawing while boosting
+your creativity and reducing screen time.
+
+2. Image_34/Message_39
+Image:
+        senior, white, male, writing, drawing, painting, sketching
+Message:
+      Give your eyes a break and let your imagination soar! Grab a
+pen and paper, and discover the joy of drawing while boosting
+your creativity and reducing screen time.
+
+
+
+Person_13
+adult asian woman
+Likes: active cerebral indoors sports
+Disikes: physical music creative domestic
+
+0. Image_40/Message_39
+Image:
+        woman, asian, adult, watering plants, watering plants
+Message:
+      Take a break from screens and discover the joy of gardening -
+it's like a breath of fresh air, boosts your mood, and lets your
+inner green thumb bloom!
+
+1. Image_31/Message_39
+Image:
+        female, adult, asian, looking at the sky
+Message:
+      Give your eyes a break and let your imagination soar with the
+magic of reading. Rediscover the joy of stories, expand your
+knowledge, and unlock endless possibilities through the power
+of books.
+
+2. Image_20/Message_39
+Image:
+        female, young, adult, white, running in the park
+Message:
+      Hey! Ready to get moving? Put down the screen and let's hit the
+pavement - jogging boosts energy, reduces stress, and gives you
+a natural high! Let's go!
+
+
+
+Person_14
+adult hispanic man
+Likes: music indoors cerebral active
+Disikes: sports physical creative domestic
+
+0. Image_7/Message_39
+Image:
+        young, white, male, listening to music, headphones, outdoors
+Message:
+      Why stare at screens when you can immerse yourself in the incredible
+world of music? Let the captivating melodies transport you, boost
+your mood, and ignite your imagination!
+
+1. Image_47/Message_39
+Image:
+        female, young, adult, white, listening to music outdoors
+Message:
+      Why stare at screens when you can immerse yourself in the incredible
+world of music? Let the captivating melodies transport you, boost
+your mood, and ignite your imagination!
+
+2. Image_0/Message_39
+Image:
+        male, young, indian, playing guitar, smiling, sitting
+Message:
+      Why stare at screens when you can immerse yourself in the incredible
+world of music? Let the captivating melodies transport you, boost
+your mood, and ignite your imagination!
+
+
+
+Person_15
+young adult african american woman
+Likes: physical creative domestic music
+Disikes: sports indoors cerebral active
+
+0. Image_46/Message_39
+Image:
+        female, young, black, working on a project in a workshop
+Message:
+      Put down the screen and pick up a needle - sewing is waiting
+to unleash your creativity and bring a sense of fulfillment and
+joy to your day!
+
+1. Image_36/Message_39
+Image:
+        female, adult, black, singing into a microphone, performing
+Message:
+      Give your eyes a break and let your voice shine! Singing boosts
+mood, relieves stress, and brings joy to your day. So put down
+the screen and start serenading!
+
+2. Image_14/Message_39
+Image:
+        female, young, adult, white, sewing, working on a sewing machine
+Message:
+      Put down the screen and pick up a needle - sewing is waiting
+to unleash your creativity and bring a sense of fulfillment and
+joy to your day!
+
+
+
+Person_16
+young adult white man
+Likes: sports music active cerebral
+Disikes: physical indoors creative domestic
+
+0. Image_16/Message_39
+Image:
+        young, white, male, chess, playing, chess
+Message:
+      Step away from the screen and dive into the captivating world
+of chess - sharpen your focus, boost problem-solving skills,
+and have a blast strategizing your way to victory!
+
+1. Image_7/Message_39
+Image:
+        young, white, male, listening to music, headphones, outdoors
+Message:
+      Why stare at screens when you can immerse yourself in the incredible
+world of music? Let the captivating melodies transport you, boost
+your mood, and ignite your imagination!
+
+2. Image_38/Message_39
+Image:
+        male, adult, white, posing with a bike
+Message:
+      Hey! Why not leave the screen behind and hop on your bike? Feel
+the wind in your hair, soak up the sunshine, and boost your mood
+while getting some exercise. Let's go biking and enjoy the great
+outdoors!
+
+
+
+Person_17
+senior-aged asian woman
+Likes: indoors domestic creative music
+Disikes: sports cerebral physical active
+
+0. Image_17/Message_39
+Image:
+        senior, female, white, knitting, sitting at a table
+Message:
+      Why not give your eyes a break and pick up some knitting needles
+instead? Knitting is a relaxing and rewarding hobby that can
+help reduce screen time and boost your creativity!
+
+1. Image_46/Message_39
+Image:
+        female, young, black, working on a project in a workshop
+Message:
+      Put down the screen and pick up a needle - sewing is waiting
+to unleash your creativity and bring a sense of fulfillment and
+joy to your day!
+
+2. Image_21/Message_39
+Image:
+        woman, adult, asian, putting flowers in a vase
+Message:
+      Why not give your screen a rest and transform your space into
+a cozy oasis? Discover the joy of home decorating and create
+a sanctuary that brings you calm and happiness.
+
+
+
+Person_18
+adult hispanic man
+Likes: active indoors sports cerebral
+Disikes: physical music creative domestic
+
+0. Image_11/Message_39
+Image:
+        male, adult, white, reading a newspaper, crossword puzzle
+Message:
+      Why not challenge your brain and have some fun with crosswords?
+They boost your mental agility and memory while giving you a
+break from screens!
+
+1. Image_22/Message_39
+Image:
+        male, adult, black, golfing, teeing off
+Message:
+      Step away from the screen and tee off into a world of fun and
+relaxation! Golfing boosts your mood, improves focus, and gets
+you outdoors enjoying nature. Let's swing into action!
+
+2. Image_38/Message_39
+Image:
+        male, adult, white, posing with a bike
+Message:
+      Hey! Why not leave the screen behind and hop on your bike? Feel
+the wind in your hair, soak up the sunshine, and boost your mood
+while getting some exercise. Let's go biking and enjoy the great
+outdoors!
+
+
+
+Person_19
+adult african american woman
+Likes: cerebral domestic music sports
+Disikes: indoors physical creative active
+
+0. Image_36/Message_39
+Image:
+        female, adult, black, singing into a microphone, performing
+Message:
+      Give your eyes a break and let your voice shine! Singing boosts
+mood, relieves stress, and brings joy to your day. So put down
+the screen and start serenading!
+
+1. Image_15/Message_39
+Image:
+        woman, adult, afro-american, meditating, yoga
+Message:
+      Give your eyes a break and let your body flow with the ancient
+practice of yoga. Feel the tension melt away and experience the
+incredible benefits of increased flexibility, strength, and inner
+peace.
+
+2. Image_41/Message_39
+Image:
+        woman, adult, white, cleaning the mirror, cleaning the house
+Message:
+      Give your screen a break and let's clean instead! Cleaning not
+only tidies up your space, but also clears your mind and brings
+a fresh start to your day. Let's get cleaning and enjoy the benefits
+of a clean and organized space!
