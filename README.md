@@ -5,8 +5,8 @@ Source code for the paper "Zero-Shot Recommendations with Pre-Trained Large Lang
 
 ## File Structure
 * directory `./content_generation/` contains files used for synthetic data generation
-* directory `./data/` contains the generated dataset: users' descriptions, messages, and image captions
-* `main.ipynb` loads the generated data and computes recommendations via proposed zero-shot approach
+* directory `./data/` contains the generated dataset: user descriptions, messages, and image captions
+* `main.ipynb` loads the generated data and computes recommendations via the proposed zero-shot approach
 
 ## Examples of Multimodal Recommendations
 <img width="1325" alt="USER0" src="https://github.com/paxnea/wain23/assets/38059493/725613b7-58e1-4652-933c-fb4ae6035ced">
