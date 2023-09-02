@@ -9,8 +9,8 @@ Source code for the paper "Zero-Shot Recommendations with Pre-Trained Large Lang
 * `main.ipynb` loads the generated data and computes recommendations via the proposed zero-shot approach
 
 ## Examples of Multimodal Recommendations
-<img width="1325" alt="USER0" src="https://github.com/paxnea/wain23/assets/38059493/725613b7-58e1-4652-933c-fb4ae6035ced">
-<img width="1325" alt="USER1" src="https://github.com/paxnea/wain23/assets/38059493/b0231306-aba1-45ec-9c02-24b44c227517">
-<img width="1325" alt="USER2" src="https://github.com/paxnea/wain23/assets/38059493/6a816dc1-b77a-4f51-93b9-227ff4b0e543">
-<img width="1325" alt="USER3" src="https://github.com/paxnea/wain23/assets/38059493/d7f6871d-9702-4534-8092-8d7a7399537d">
-<img width="1325" alt="USER4" src="https://github.com/paxnea/wain23/assets/38059493/ede0113f-1620-41b3-b317-b6709b924a61">
+![USER0](https://github.com/paxnea/wain23/assets/38059493/491abffe-2bbd-4cdd-9638-10a6cd1343a1)
+![USER1](https://github.com/paxnea/wain23/assets/38059493/8b03425d-a99f-4cce-9728-40bb57a5e332)
+![USER2](https://github.com/paxnea/wain23/assets/38059493/6df71c30-50a1-4115-9ca3-763d714624db)
+![USER3](https://github.com/paxnea/wain23/assets/38059493/a03e1a70-31b7-40ff-8372-efde6414dc4f)
+![USER4](https://github.com/paxnea/wain23/assets/38059493/34fd0d99-1681-4525-9ef7-ea02770e5bce)
