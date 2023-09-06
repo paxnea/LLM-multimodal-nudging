@@ -1,5 +1,5 @@
 # Zero-Shot Learning for Multimodal Nudging
-Source code for the paper "Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging".
+Source code for the paper "[Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging](https://arxiv.org/abs/2309.01026)".
 
 ![input_embedding](https://github.com/paxnea/wain23/assets/133911288/7b697e0b-9c51-454b-8387-ad042d9ce392)
 
